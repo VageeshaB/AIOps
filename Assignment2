@@ -1,7 +1,11 @@
 AIOPS Assignment 2
 1. What is GIT and GitHub?
-Ans: 
+Ans: GIT is a version control system which helps user to manage and keep track of source code changes.
+GitHub is cloud based hosting service that lets user to manage Git repo's.
+
 2. What is a git repository?
+Ans:Its a location where we store all the files related to project.
+
 3. What are the branches in GitHub?
 4. What do you mean by commit?
 5. What is the command used to delete a branch?
