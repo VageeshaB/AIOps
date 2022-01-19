@@ -1,0 +1,44 @@
+AIOPS Assignment 1
+1. What is AI-ops?
+Ans: AIOps is a multi layered technology platform which automates and enhances the operations.
+
+2. Why do we use Ai-ops?
+Ans: We use AIOps to have end-end visibility into infrastrucrure and applications which improves performance monitoring and service delivery.
+
+3. What is the difference between AI-ops and ML-ops?
+Ans: Both are used to improve operational efficiency but with different goals wrt technologies and processes.
+
+AI-ops is process where we automate the infrastructure required for the large scale application.
+
+ML-ops is an ML engineering culture and practice that aims at unifying
+    -ML system Development(Dev)
+    -ML system Operation(Ops)- Automation and Monitoring
+    
+4. What do you mean by CI-CD?
+Ans: It is a automation process where building, testing and deploying application can be automated to smoothen the collabration between the teams wrt each releases.
+
+CI(Continous Integration): It no longer only about testing and validating code and components, data, data schemas and model must also be tested and validated.
+CD(Continous Deployment): Its no longer about a single software package or service but about a system (an ML training pipeline) that automatically deploy another service.
+
+5. What do you mean by Bash?
+Ans: Its a unix shell, it is used to communicate to kernel and system to perform specific operations via providing respective commands. It provides us with an interface to the Unix system.
+It gathers input from user and execute it and displays output.
+
+6. What do you mean by kernels? Explain the functions of kernels.
+Ans:Kernel is computer program at the core of an OS. It loads first and remains in main memory. It connects system h/w to application s/w.
+
+The major functions of Kernel are,
+1. Process management fo application execution
+2. Momory and I/O management
+3. System call control (Core act of Kernel)
+4. Device management with the help of device driver.
+
+7. What are the essential elements or components of Linux?
+Ans:The components of Linux are,
+1. Boot Loader
+2. Kernel
+3. Init System
+4. Daemons
+5. Graphical server
+6. Desktop env
+7. Applications
