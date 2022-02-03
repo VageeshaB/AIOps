@@ -1,0 +1,5 @@
+AIOPS Assignment 3 
+1. What is DVC, and why is DVC used? 
+2. How is DVC different from git and GitHub? 
+3. Which command can be used to initialise a DVC project? 4. In What all use cases DVC can be used? 
+5. Which command can be used to reproduce the entire pipeline? 6. Which DVC command can be used to check metrics? 7. Can we store a large amount of Data on GitHub? Justify.
