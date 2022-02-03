@@ -4,10 +4,27 @@ Ans: GIT is a version control system which helps user to manage and keep track o
 GitHub is cloud based hosting service that lets user to manage Git repo's.
 
 2. What is a git repository?
-Ans:Its a location where we store all the files related to project.
+Ans:Its a location where we store all the files related to project. Its an opensource tool. It tracks and saves the history of all changes made to the files in a project. It saves this data in directory called .git(repo folder).
 
 3. What are the branches in GitHub?
+Ans: Branches allows user to develop features, fix bugs or safely experiment with new ideas in a contained area of the repo.
+
 4. What do you mean by commit?
+Ans: It is an individual change to a file or set of files in a repo made in working area and move it to staginging area followed by commit. It is a snapshot of repo at specific point in time.
+
 5. What is the command used to delete a branch?
+Ans: git branch -d bugfix#5402
+
 6. What is the git-clone command used for?
+Ans: git clone https://github.com/VageeshaB/AIOps
+
 7. What is the difference between git pull and git fetch?
+Ans: Both commands used to update the local repo from remote repo
+git pull:Both fetch and merge operations performed during pull command. It fetch and merge any new changes to master branch and move the pointer to Head.
+git fetch:gathers any commits from the target branch that do not exist n our current branch and stores them in local repo. But it doesnot merge them with current branch.
+
+git rebase: saves changes from current branch that isnt the upstream branch to temp area.
+
+https://github.com/VageeshaB/AIOps/issues/1#issue-1122598803
+![ZYAVG](https://user-images.githubusercontent.com/38977593/152273984-6363f80d-214e-40f6-bbf7-414b655576f5.jpg)
+
